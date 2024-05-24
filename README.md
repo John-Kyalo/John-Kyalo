@@ -8,8 +8,8 @@ A tech enthusiast with a passion for all things data. I use technology tools to 
 
 
 💻 **Skills:**
-- **Programming Languages:** Python, SQL, HTML, CSS
-- **Frameworks and Libraries:** Jupyter Notebook, Bootstrap
+- **Programming Languages:** Python, SQL, C#, HTML, CSS
+- **Frameworks and Libraries:** Jupyter Notebook, ASP.NET, Bootstrap
 - **Tools:** Git, GitHub, VS Code
 
 📫 **How to reach me:**
