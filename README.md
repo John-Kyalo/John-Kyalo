@@ -13,7 +13,7 @@ A tech enthusiast with a passion for all things data. I use technology tools to 
 - **Tools:** Git, GitHub, VS Code
 
 📫 **How to reach me:**
-- [Email](johnkyalo212@gmail.com)
+- johnkyalo212@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/john-kyalo-8753021b6/)
 
 📈 **GitHub Stats:**
