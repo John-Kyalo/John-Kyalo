@@ -1,6 +1,6 @@
 ### Hi there, I'm John Kyalo 👋
 
-A tech enthusiast with a passion for all things data. I use technology tools to transform data into actionable insights.
+A techie with a passion for all things data. I use technology tools to transform data into actionable insights.
 
 🔭 ** Key Projects:**
 - [DSC-MOVIE ANALYSIS](https://github.com/John-Kyalo/dsc-Movie-Analysis/tree/template-mvp): A Microsoft Project on movies as it tries to break into Movie Industry
