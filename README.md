@@ -24,7 +24,7 @@ A techie with a passion for all things data. I use technology tools to transform
 
 
 
-- 👯 I’m looking to collaborate on Data projects. Structring the data ecosystem, Analysing, Modelling and Visualizing data
+- 👯 I’m looking to collaborate on Data projects. Structuring the data ecosystem, Analysing, Modelling and Visualizing data
 <!--
 **John-Kyalo/John-Kyalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
