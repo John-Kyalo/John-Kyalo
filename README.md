@@ -9,10 +9,12 @@ A techie with a passion for all things data. I use technology tools to transform
 
 
 💻 **Skills:**
-- ** Programming Languages:** Python, SQL 
+- **Programming Languages:** Python, SQL 
 - **Frameworks and Libraries:** Jupyter Notebook, Pandas, Matplotlib
 - **Tools:** Power BI, Microsoft Fabric, Azure, Git, GitHub, VS Code
 
+
+- 👯 I’m looking to collaborate on Data projects. Structring the data ecosystem, Analysing, Modelling and Visualizing data
 📫 **How to reach me:**
 - johnkyalo212@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/john-kyalo-8753021b6/)
