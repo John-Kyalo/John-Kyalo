@@ -1,16 +1,17 @@
 ### Hi there, I'm John Kyalo 👋
 
-A techie with a passion for all things data. I use technology tools to transform data into actionable insights.
+A techie with a passion for all things data. I use technology tools to transform data into insights. Telling a story out of data.
 
 🔭 ** Key Projects:**
-- [DSC-MOVIE ANALYSIS](https://github.com/John-Kyalo/dsc-Movie-Analysis/tree/template-mvp): A Microsoft Project on movies as it tries to break into Movie Industry
-- [SENTIMENT-ANALYZER](https://github.com/John-Kyalo/SENTIMENT-ANALYZER): Analyzes Amazon reviews to classify sentiment.
+- [Data Reporting](https://github.com/John-Kyalo/A-MAJINDOGO-CAUSE): SDG 6: Clean water and Sanitation. A project that finds solutions to water problems by exploring data. 
+ Clean up, analysis and visualization.
+- [EDA, Modelling and Prediciton](https://github.com/John-Kyalo/Financial-Inclusion-in-Africa): The goal is to find out which individuals are most likely to have or use a bank account
 
 
 💻 **Skills:**
-- **Programming Languages:** Python, SQL, C#, HTML, CSS
-- **Frameworks and Libraries:** Jupyter Notebook, ASP.NET, Bootstrap
-- **Tools:** Git, GitHub, VS Code
+- **Languages:** Python, SQL, 
+- **Frameworks and Libraries:** Jupyter Notebook, Pandas, Matplotlib
+- **Tools:** Power BI, Microsoft Fabric, Azure, Git, GitHub, VS Code
 
 📫 **How to reach me:**
 - johnkyalo212@gmail.com
