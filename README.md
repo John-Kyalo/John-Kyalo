@@ -14,8 +14,6 @@ A techie with a passion for all things data. I use technology tools to transform
 - **Tools:** Power BI, Microsoft Fabric, Azure, Git, GitHub, VS Code
 
 
-- 👯 I’m looking to collaborate on Data projects. Structring the data ecosystem, Analysing, Modelling and Visualizing data
-
 📫 **How to reach me:**
 - johnkyalo212@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/john-kyalo-8753021b6/)
@@ -24,6 +22,9 @@ A techie with a passion for all things data. I use technology tools to transform
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Kyalo&show_icons=true&theme=radical)
 
+
+
+- 👯 I’m looking to collaborate on Data projects. Structring the data ecosystem, Analysing, Modelling and Visualizing data
 <!--
 **John-Kyalo/John-Kyalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
