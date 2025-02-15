@@ -9,7 +9,7 @@ A techie with a passion for all things data. I use technology tools to transform
 
 
 💻 **Skills:**
-- **Languages:** Python, SQL, 
+- ** Programming Languages:** Python, SQL 
 - **Frameworks and Libraries:** Jupyter Notebook, Pandas, Matplotlib
 - **Tools:** Power BI, Microsoft Fabric, Azure, Git, GitHub, VS Code
 
