@@ -1,4 +1,4 @@
-### Hi there, I'm John Kyalo 👋
+### Hi there, I'm John Kyalo, a Data Analyst 👋
 
 A techie with a passion for all things data. I use technology tools to transform data into insights. Telling a story out of data.
 
